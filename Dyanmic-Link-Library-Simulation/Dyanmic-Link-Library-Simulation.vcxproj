@@ -156,11 +156,13 @@
   <ItemGroup>
     <ClInclude Include="Dyanmic-Link-Library-Simulation.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="MathLibrary.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="Dyanmic-Link-Library-Simulation.cpp" />
+    <ClCompile Include="MathLibrary.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
