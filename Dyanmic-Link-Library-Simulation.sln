@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dyanmic-Link-Library-Simulation", "Dyanmic-Link-Library-Simulation\Dyanmic-Link-Library-Simulation.vcxproj", "{3AB76EA8-979D-4153-BA49-96E7881C4BBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathClient", "MathClient\MathClient.vcxproj", "{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3AB76EA8-979D-4153-BA49-96E7881C4BBF}.Release|x64.Build.0 = Release|x64
 		{3AB76EA8-979D-4153-BA49-96E7881C4BBF}.Release|x86.ActiveCfg = Release|Win32
 		{3AB76EA8-979D-4153-BA49-96E7881C4BBF}.Release|x86.Build.0 = Release|Win32
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Debug|x64.ActiveCfg = Debug|x64
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Debug|x64.Build.0 = Debug|x64
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Debug|x86.Build.0 = Debug|Win32
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Release|x64.ActiveCfg = Release|x64
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Release|x64.Build.0 = Release|x64
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Release|x86.ActiveCfg = Release|Win32
+		{D41AF1A0-10F4-41ED-9DA2-5E259F7F3DAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
